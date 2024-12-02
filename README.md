@@ -4,6 +4,20 @@ Bu günden itibaren başlayan 1 ay boyunca sürecek Advent Of Code etkinliği ç
 
 https://t.me/procyberian_systems_distribution grubumuzdan kodlara erişebilirsiniz
 
+# Depolar
+
+https://codeberg.org/procyberian/AdventofCode2024
+
+https://git.disroot.org/procyberian/AdventofCode2024
+
+https://git.vern.cc/procyberian/AdventofCode2024
+
+https://git.sr.ht/~mertgor/AdventofCode2024
+
+https://gitlab.com/masscollabs/procyberian/adventofcode2024
+
+https://github.com/procyberian/AdventofCode2024
+
 # License
 
 Copyright (C) 2024-2025 QB Networks
